@@ -14,6 +14,11 @@ Method:
 
 Results: 
 
+<p float="left">
+ <img title="title-1" src="https://user-images.githubusercontent.com/26017262/64992916-e0d70400-d8a2-11e9-8d4b-b97b0fc934d8.png />  
+    
+<img src="https://user-images.githubusercontent.com/26017262/64992969-02d08680-d8a3-11e9-9a05-091874075b08.png" title="title-2" width="200" /> 
+</p>
 
 To run, do the following
 * clone the repo locally
