@@ -15,7 +15,8 @@ Method:
 Results: 
 
 <p float="left">
- <img title="title-1" src="https://user-images.githubusercontent.com/26017262/64992916-e0d70400-d8a2-11e9-8d4b-b97b0fc934d8.png" />  
+ <img title="test case 1" src="https://user-images.githubusercontent.com/26017262/64992916-e0d70400-d8a2-11e9-8d4b-b97b0fc934d8.png" /> 
+  <img title="test case 2 " src="https://user-images.githubusercontent.com/26017262/65003988-c57eef80-d8c8-11e9-9ca9-3ba9159c2cff.png" /> 
     
 </p>
 
